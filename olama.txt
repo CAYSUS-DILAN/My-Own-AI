@@ -1,0 +1,3 @@
+1) Install ollama from the official website Ollama.io , choose windows and the installation process is easy.
+2) once installed use  ollama command to see the configs 
+3) use ollama run llama2 to install and run your personal GPT with out any browser and internet 
